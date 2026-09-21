@@ -4,6 +4,14 @@
 
 本仓库整理2026年9月17日的店铺经营分析、定位、扩品规划、视觉方法、床幔七图模板和用户提供的水印。店铺：[FrenchStyleDecor on Etsy](https://www.etsy.com/shop/FrenchStyleDecor)。经营数据以港币记录；目标US$100,000为规划目标，不是预测。
 
+## 最新默认模板（2026-09-21）
+
+- [床幔七图模板与调用口令](listing-images/canopy-seven-image-template.md)
+- [店铺统一色调](brand/approved-tone-2026-09-21.md)
+- [Van-019 认可版七张参考成品](products/van-019-template/README.md)
+
+以上为当前默认，早期样板保留追溯。所有无水印与重做稿均保留，不自动删除。
+
 ## 从这里开始
 
 - [整店经营、历史优势、扩品与90天计划](analysis/store-analysis-2026-09-17.md)
