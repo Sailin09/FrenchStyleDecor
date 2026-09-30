@@ -6,6 +6,12 @@
 
 “按 FrenchStyleDecor 的本款桌旗七图模板生成 7 张 1:1 产品图。使用 `products/table-runner-template/references/` 中的原始照片作为产品唯一事实来源。严格保持桌旗的长宽比例、中央素色区域、两侧花卉刺绣、波浪花边和两端流苏；只改变镜头角度、摆放方式和法式乡村场景。先生成无水印稿，审核通过后再添加 Fren.png 水印。”
 
+## 已采用效果图示例
+
+![已采用的桌旗效果图](../products/table-runner-template/approved-example.png)
+
+此图替换此前模板中的效果图，作为本款桌旗后续生成时的场景与呈现参考；产品本体仍以“原始参考”中的实拍图为唯一事实来源。
+
 ## 原始参考
 
 - [完整垂挂参考](../products/table-runner-template/references/source-01-full-drape.png)
